@@ -10,3 +10,8 @@ Machine Learning notes and Exercises
 - Function, when run, shows accuracy of naive bayes model and training time vs prediction time 
 
 ![train](trainingtime.png)
+
+## Algorithms
+- Naive Bayes
+- Support Vector Machines (SVMs)
+
