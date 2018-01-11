@@ -14,4 +14,5 @@ Machine Learning notes and Exercises
 ## Algorithms
 - Naive Bayes
 - Support Vector Machines (SVMs)
+- Decision Trees
 
